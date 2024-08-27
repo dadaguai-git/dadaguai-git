@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Tusker ManShu<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<!--
-**dadaguai-git/dadaguai-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![ViewCount](https://views.whatilearened.today/views/github/dadaguai-git/dadaguai-git.svg?cache=remove)
 
-Here are some ideas to get you started:
+### Languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinchaturvedi93&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
+
+### My Recent post on Github!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dadaguai-git&show_icons=true&theme=radical)
